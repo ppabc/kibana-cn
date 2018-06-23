@@ -1,0 +1,4 @@
+{
+  "UI-WELCOME_MESSAGE": "Kibana 启动中...",
+  "UI-WELCOME_ERROR": "Kibana 未能正常启动，请从输出日志中获取更多信息！"
+}
