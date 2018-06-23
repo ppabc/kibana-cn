@@ -1,0 +1,13 @@
+cp timelion.bundle.js   /opt/kibana-5.6.9-linux-x86_64/optimize/bundles/timelion.bundle.js
+cp commons.bundle.js   /opt/kibana-5.6.9-linux-x86_64/optimize/bundles/commons.bundle.js
+cp kibana.bundle.js   /opt/kibana-5.6.9-linux-x86_64/optimize/bundles/kibana.bundle.js
+cp global_nav.js   /opt/kibana-5.6.9-linux-x86_64/src/ui/public/chrome/directives/global_nav/global_nav.js
+cp timelion-index.js   /opt/kibana-5.6.9-linux-x86_64/src/core_plugins/timelion/index.js
+cp kibana-index.js   /opt/kibana-5.6.9-linux-x86_64/src/core_plugins/kibana/index.js
+cp dashboard_listing.html   /opt/kibana-5.6.9-linux-x86_64/src/core_plugins/kibana/public/dashboard/listing/dashboard_listing.html
+cp en.json   /opt/kibana-5.6.9-linux-x86_64/src/core_plugins/kibana/translations/en.json
+cp horizontal_bar.js   /opt/kibana-5.6.9-linux-x86_64/src/core_plugins/kbn_vislib_vis_types/public/horizontal_bar.js
+cp histogram.js   /opt/kibana-5.6.9-linux-x86_64/src/core_plugins/kbn_vislib_vis_types/public/histogram.js
+cp area.js   /opt/kibana-5.6.9-linux-x86_64/src/core_plugins/kbn_vislib_vis_types/public/area.js
+cp line.js   /opt/kibana-5.6.9-linux-x86_64/src/core_plugins/kbn_vislib_vis_types/public/line.js
+cp heatmap.js   /opt/kibana-5.6.9-linux-x86_64/src/core_plugins/kbn_vislib_vis_types/public/heatmap.js
